@@ -3,7 +3,7 @@ import shutil
 import tkinter as tk
 from tkinter import font as tkfont
 from tkinter import messagebox
-
+#some text
 def delete_user(username):
     dataPath = 'D:\\LaSalle\\Computer architecture\\Project\\Data'
     personPath = os.path.join(dataPath, username)
